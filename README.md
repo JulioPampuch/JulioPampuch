@@ -1,7 +1,7 @@
 Olá! 👋
 
-- 🔭 Atualmente estou à procura da minha primeira vaga como Desenvolvedor Front-end!
-- 🌱 Tenho conhecimentos em <strong> HTML, CSS JavaScript, React, Tailwind CSS entre outras... </strong>
+- 🔭 Atualmente estou à procura da minha primeira vaga como <strong> Desenvolvedor Front-end! </strong>
+- 🌱 Tenho conhecimentos em <strong> HTML, CSS, JavaScript, React, Tailwind CSS entre outras... </strong>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
