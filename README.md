@@ -17,7 +17,7 @@
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Julio-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/988120747320938537/1047665374742712401/gifcode.gif">
+  <img align="right" alt="Julio-pic" height="110" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/988120747320938537/1047665374742712401/gifcode.gif">
 </div>
   
   ##
