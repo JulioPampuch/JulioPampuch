@@ -17,13 +17,13 @@
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  src="https://discord.com/channels/943925092495261757/999509578783936562/1047663378199494736">
+  <img align="right" alt="Julio-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/999509578783936562/1047663377851363378/gif.gif">
 </div>
   
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/julio-pampuch" target="_blank"><img src="https://discord.com/channels/@me/988120747320938537/1047663130542604378" target="_blank"></a> 
+</a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
