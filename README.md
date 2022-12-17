@@ -18,9 +18,7 @@
   <img align="center" alt="Julio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Julio-pic" height="90" style="border-radius:50px;"
-  <a href="https://www.linkedin.com/in/julio-pampuch/" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"  
-   alt="linkedin logo"  />
+
   src="https://cdn.discordapp.com/attachments/988120747320938537/1047665374742712401/gifcode.gif">
 </div>
   
