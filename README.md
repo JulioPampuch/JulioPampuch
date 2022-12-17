@@ -20,9 +20,11 @@
   <img align="right" alt="Julio-pic" height="90" style="border-radius:50px;"
   src="https://cdn.discordapp.com/attachments/988120747320938537/1047665374742712401/gifcode.gif">
 </div>
-    <a style="margin-top: 90px;" href="https://www.linkedin.com/in/julio-pampuch/" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"  
-   alt="linkedin logo"  />
+  <div>
+    <a href="https://www.linkedin.com/in/julio-pampuch/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"  
+    alt="linkedin logo"  />
+   </div>
   
   ##
  
