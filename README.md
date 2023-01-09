@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou à procura da minha primeira vaga como <strong> Desenvolvedor Front-end! </strong>
 - 🌱 Tenho conhecimentos em <strong> HTML, CSS, JavaScript, React, NextJS, Styled-components entre outras... </strong>
 - 👯 Quero me desenvolver e contribuir na área dando o meu <strong> máximo!! </strong>
-- 👽 Você pode acessar meu portfólio clicancando <a href="https://portfolio-julio-pampuch.vercel.app/">aqui<a/>
+- 👽 Você pode acessar meu portfólio clicancando <a target="_blank" href="https://portfolio-julio-pampuch.vercel.app/">aqui<a/>
   
 - 📫 Contate-me no e-mail : juliopampuch@gmail.com
 -->
