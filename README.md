@@ -14,7 +14,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,12 +23,12 @@
   src="https://cdn.discordapp.com/attachments/988120747320938537/1047665374742712401/gifcode.gif">
 </div>
   
-  <hr/>
-  <div>
-    <a href="https://www.linkedin.com/in/julio-pampuch/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"  
-    alt="linkedin logo"  />
-   </div>
+ <hr/>
+ <div>
+   <a href="https://www.linkedin.com/in/julio-pampuch/" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"  
+   alt="linkedin logo"  />
+  </div>
   
   ##
  
