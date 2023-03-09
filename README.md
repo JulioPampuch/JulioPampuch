@@ -9,7 +9,7 @@
 -->
   
   [![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioPampuch&show_icons=true&theme=radical)](https://github.com/JulioPampuch/github-readme-stats)
-  [![Julios's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JulioPampuch)](https://github.com/JulioPampuch/github-readme-stats)
+  [![Julios's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JulioPampuch)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
