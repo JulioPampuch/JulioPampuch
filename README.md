@@ -8,7 +8,7 @@
 - 📫 Contate-me no e-mail : juliopampuch@gmail.com
 -->
   
-  [![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioPampuch&show_icons=true&theme=gradient)](https://github.com/JulioPampuch/github-readme-stats)
+  [![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioPampuch&show_icons=true&theme=radical)](https://github.com/JulioPampuch/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioPampuch&layout=compact&theme=radical)](https://github.com/JulioPampuch/github-readme-stats)
   
 <div style="display: inline_block"><br>
