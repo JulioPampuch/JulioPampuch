@@ -9,6 +9,7 @@
 -->
   
   [![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioPampuch&show_icons=true&theme=radical)](https://github.com/JulioPampuch/github-readme-stats)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliopampuch&layout=compact&langs_count=7&theme=dark"/>
 <div align="center">
  <a href="https://github.com/JulioPampuch">
    
