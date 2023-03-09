@@ -7,9 +7,11 @@
   
 - 📫 Contate-me no e-mail : juliopampuch@gmail.com
 -->
+  
+  [![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioPampuch)](https://github.com/JulioPampuch/github-readme-stats)
 <div align="center">
  <a href="https://github.com/JulioPampuch">
-   [![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioPampuch)](https://github.com/JulioPampuch/github-readme-stats)
+   
    
 </div>
   
