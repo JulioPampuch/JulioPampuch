@@ -29,10 +29,4 @@
   </div>
   
   ##
- 
-<div> 
-</a> 
- 
-  ![Snake animation](https://github.com/JulioPampuch/JulioPampuch/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
